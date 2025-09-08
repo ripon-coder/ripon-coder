@@ -45,14 +45,11 @@
 ## 📊 GitHub Stats
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ripon-coder&show_icons=true&theme=dracula&count_private=true&hide_rank=true&include_all_commits=true&layout=compact" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripon-coder&layout=compact&theme=dracula" />
-    </td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ripon-coder&show_icons=true&theme=dracula&count_private=true&hide_rank=false&include_all_commits=true&layout=compact" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripon-coder&layout=compact&theme=dracula" /></td>
   </tr>
 </table>
+
 
 ---
 
