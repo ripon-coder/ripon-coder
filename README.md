@@ -3,10 +3,15 @@
 
 <!-- Download CV Button -->
 <p align="center">
+  <a href="https://github.com/user-attachments/files/22202479/Ripon-Shikder-Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-4CAF50?style=for-the-badge&logo=adobe&logoColor=white" />
+  </a>
+  
   <a href="https://gitconnected.com/ripon-coder/resume" target="_blank">
     <img src="https://img.shields.io/badge/See_Resume-4CAF50?style=for-the-badge&logo=adobe&logoColor=white" />
   </a>
 </p>
+
 
 
 <!-- Banner / GIF -->
